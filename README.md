@@ -92,7 +92,7 @@ This project integrates two public APIs: The Movie Database API and Open-Meteo A
 1. Clone the repository:
 
 ```bash
-  cd https://github.com/santiagoHV/api-integration-challenge.git
+  git clone https://github.com/santiagoHV/api-integration-challenge.git
 ```
     
 2. Install dependencies (Recommended Node v20):
