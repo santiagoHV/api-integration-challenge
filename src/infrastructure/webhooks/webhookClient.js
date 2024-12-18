@@ -7,9 +7,6 @@ class WebhookClient {
 
     async sendData(payload) {
         try {
-            console.log("Status: ", this.webhookUrl);
-            console.log("Payload: ", payload);
-
             const response = await axios.post(this.webhookUrl, "JSON.stringify(payload)");
             console.log("Data sent to the webhook");
             console.log("Response: ", response.data);

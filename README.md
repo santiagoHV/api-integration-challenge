@@ -93,14 +93,14 @@ This project integrates two public APIs: The Movie Database API and Open-Meteo A
 
 ```bash
   npm install my-project
-  cd my-project
+  cd https://github.com/santiagoHV/api-integration-challenge.git
 ```
     
-2. Install dependencies:
+2. Install dependencies (Recommended Node v20):
 
 ```bash
-  npm install my-project
-  cd my-project
+  cd api-integration-challenge
+  npm install
 ```
 
 3. Clone the repository:
